@@ -14,6 +14,7 @@
 5. `add2_and_multiply`: this function takes in a parameter, `multiplier`, and calls `add2`, then calls `multiply_num`.
   
 ### Complete the program
+Associated Reading 3.04: https://tealsk12.gitbook.io/intro-cs-2/readings#3-4
 
 Write the following code in the main part of the program.
 
